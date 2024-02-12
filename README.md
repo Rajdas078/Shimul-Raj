@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shimul Raj Das</h1>
 <h3 align="center">A Flutter Programmer and A Tech Expert</h3>
-<img align="center" alt="coding" width="400" src="https://github.com/Rajdas078/Shimul-Raj/blob/main/f94135193d842e240e9c1267e4d9ca89.gif"> 
+<img align="center" alt="coding" width="600" src="https://github.com/Rajdas078/Shimul-Raj/blob/main/f94135193d842e240e9c1267e4d9ca89.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdas078&label=Profile%20views&color=0e75b6&style=flat" alt="rajdas078" /> </p>
 
