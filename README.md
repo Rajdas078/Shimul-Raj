@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shimul Raj Das</h1>
 <h3 align="center">A Flutter Programmer and A Tech Expert</h3>
-<img align="center" alt="coding" width="600" src="https://github.com/Rajdas078/Shimul-Raj/blob/main/f94135193d842e240e9c1267e4d9ca89.gif"> 
+<img align="center" alt="coding" width="700" src="https://github.com/Rajdas078/Shimul-Raj/blob/main/f94135193d842e240e9c1267e4d9ca89.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdas078&label=Profile%20views&color=0e75b6&style=flat" alt="rajdas078" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdas078" alt="rajdas078" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdas078" alt="rajdas078" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter**
 
